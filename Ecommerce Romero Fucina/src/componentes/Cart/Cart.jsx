@@ -1,0 +1,6 @@
+import { defaults } from "json-server";
+import React from "react";
+const Cart = () => {
+  return <div>Cart</div>;
+};
+export default Cart;
