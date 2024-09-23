@@ -2,7 +2,7 @@ export const products = [
     {
       id: 1,
       title: "Pollo",
-      price: 490,
+      price: 4900,
       stock: 16,
       description: " Producto de Campo ",
       category: "Producto Fresco",
@@ -12,7 +12,7 @@ export const products = [
     {
       id: 2,
       title: "Pata Muslo",
-      price: 490,
+      price: 4900,
       stock: 32,
       description: " Producto de Campo ",
       category: "Producto Fresco",
@@ -22,7 +22,7 @@ export const products = [
     {
       id: 3,
       title: "Pechuga Deshuesada",
-      price: 900,
+      price: 6000,
       stock: 10,
       description: " Producto de Campo ",
       category: "Producto Fresco",
@@ -32,7 +32,7 @@ export const products = [
     {
       id: 4,
       title: "Milanesa de Pechuga",
-      price: 900,
+      price: 6500,
       stock: 20,
       description: " Producto fresco ",
       category: "Producto Procesado",
